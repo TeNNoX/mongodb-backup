@@ -1,3 +1,5 @@
+# Fork that only removes the snapshot option to be [compatible with Mongo 4.x](https://github.com/hex7c0/mongodb-backup/issues/27)
+
 # [mongodb-backup](https://github.com/hex7c0/mongodb-backup)
 
 [![NPM version](https://img.shields.io/npm/v/mongodb-backup.svg)](https://www.npmjs.com/package/mongodb-backup)
